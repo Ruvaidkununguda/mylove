@@ -85,7 +85,7 @@
     border: none;
     background: #39657e;
     display: flex;
-    place-items: center;
+    place-items: down;
   }
   .controls button:hover,
   .controls button:focus {
